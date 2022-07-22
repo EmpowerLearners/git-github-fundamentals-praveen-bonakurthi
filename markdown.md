@@ -83,5 +83,7 @@ You can tell GitHub to ignore (or escape) Markdown formatting by using \ before 
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
+# Image
+
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
